@@ -1,3 +1,3 @@
-# 开源硬件
+# MyHome手机APP
 
-BLab大熊实验室推出的开源硬件
+MyHome手机APP目前使用uniapp这个跨端框架使用vuejs语言进行编写，其中UI框架使用了uview框架。
