@@ -10,6 +10,7 @@ MyHome由BLab大熊实验室出于爱好开发，本身不是商业项目，因�
 - MyHome的APP及服务端持续开发
 - 文档、社区的建设
 - 租用更好的服务器及开发更多的功能
+- 资助设备开发者持久优化或者开发设备
 ### 2.捐助方式
 
 <div style="display:flex;justify-content: space-between;margin-top:10px;">
