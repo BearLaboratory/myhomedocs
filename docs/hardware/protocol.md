@@ -24,6 +24,8 @@
 
 设备每30s上报一次心跳数据，平台将通过检测设备心跳书否存在判断设备是否离线。
 
+> 特例: 测量型设备不需要上报心跳
+
 #### Topic
 ${productKey}/${deviceId}/heartbeat
 
@@ -40,6 +42,8 @@ ${productKey}/${deviceId}/heartbeat
 }
 ```
 ### 2.设备监听平台下发控制
+
+> 特例: 测量型设备不需要订阅平台下发控制
 
 #### Topic
 ${productKey}/${deviceId}/controled
@@ -86,3 +90,16 @@ ${productKey}/${deviceId}/report
 }
 ```
 解释：数据中open字段true时标识设备开，false标识设备关。
+
+- 设备-测量型型-温湿度设备：
+
+```json
+
+{
+    "deviceId":"1",
+    "payload":{
+        "temperature":20,
+        "humidity":30
+    }
+}
+```

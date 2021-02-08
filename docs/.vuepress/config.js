@@ -2,7 +2,7 @@ module.exports = {
     title: 'MyHome',
     description: '最具极客范的开源智能家居控制系统',
     head: [
-        ['link', { rel: 'shortcut icon', href: '/icon.ico' }]
+        ['link', { rel: 'shortcut icon', href: '/favicon.ico' }]
     ],
     themeConfig: {
         nav: [
