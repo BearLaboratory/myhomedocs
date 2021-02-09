@@ -9,9 +9,9 @@ MyHome手机APP目前使用[uniapp](https://uniapp.dcloud.io/)这个跨端框架
 由于不同设备一直在新增，因此MyHome APP也会频繁进行升级，请参照以下说明进行下载使用。
 > 理论上请使用最新版手机APP，请关注APP内新版本推送并安装使用
 
-|版本|发布时间|系统支持情况|描述|下载地址|提交bug及优化建议|
+|版本|发布时间|系统支持情况|描述|源码地址|提交bug及优化建议|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|<span style="font-size: 8px;background-color: #3EAF7C;color: #FFFFFF;padding-left: 5px;padding-right: 5px;border-radius: 5px">最新</span> v1.0|2021-2-1|Android支持|初始版本|[github](https://www.baidu.com)|[发送邮件](https://www.baidu.com)|
+|<span style="font-size: 8px;background-color: #3EAF7C;color: #FFFFFF;padding-left: 5px;padding-right: 5px;border-radius: 5px">最新</span> v1.0.0|2021-2-1|Android|初始v1.0.0版本|[github](https://github.com/BearLaboratory/myhomeapp)|[发送邮件](https://www.baidu.com)|
 
 ## 开发团队成员
 一个项目的持续迭代更新离不开团队的参与，目前MyHome手机端APP开发团队成员如下：
